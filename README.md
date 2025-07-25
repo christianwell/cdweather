@@ -26,8 +26,9 @@ BME280 5V [$3.30
 ](https://www.aliexpress.com/item/1005006018085460.html?spm=a2g0o.productlist.main.5.7eb76596uRSODr&algo_pvid=c5c66b0b-e705-4d15-acbc-361b36203eed&algo_exp_id=c5c66b0b-e705-4d15-acbc-361b36203eed-4&pdp_ext_f=%7B%22order%22%3A%221024%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21DKK%2135.18%2122.16%21%21%2138.68%2124.37%21%40211b655217532672215896180eb178%2112000035345946703%21sea%21DK%214387459441%21X&curPageLogUid=rQ0fHyFW63aY&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
 # aliexpress total  $12.12
+# jlcpcb $5.88
 
 
 3.2mm screws 4 "paying for my self"
 
-# total price  with shiping and everyting 32.24 usd
+# total price  with shiping and everyting 38.12 usd
