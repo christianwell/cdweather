@@ -16,7 +16,7 @@ oled HS91L02W2C01  1 [$ 2.01
 resistors  100 "moq" [$ 0.56
 ](https://lcsc.com/product-detail/image/HS91L02W2C01_C5248081.html)
 
-# lcsc everyting + shiping = $21.72
+# lcsc everyting + shiping = $20.12
 
 
 ESP32 C3 Super Mini Development Board 1  [$1.83
@@ -30,4 +30,4 @@ BME280 5V [$3.30
 
 3.2mm screws 4 "paying for my self"
 
-# total price  with shiping and everyting 33.84 usd
+# total price  with shiping and everyting 32.24 usd
