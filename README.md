@@ -1,7 +1,7 @@
 # cdweather
 a weather api/station by christian
 # why did u make this?
-i really wanted todo a local api for my weather so itought why not
+i really wanted todo a local api for my weather so itought why not its gonna be wall mount outside 
 # pics
 ![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9cf9f6d899c20402250ae5eb10eb7d7e8ea1d185_image.png)
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f198b462a5fb3e42df48ccbd27935b3fd93667a5_image.png)
