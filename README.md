@@ -32,3 +32,4 @@ BME280 5V [$3.30
 3.2mm screws 4 "paying for my self"
 
 # total price  with shiping and everyting 38.12 usd
+maybe a like 45 for 3d case shiping
