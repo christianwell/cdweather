@@ -1,7 +1,10 @@
 # cdweather
 The cdweather is a weather station that shows/sends full real time data 
 # why did u make this
-i had 0 local weather stations with real time data in my area so i tought what can slove this idea ? here comes the cdweather a esp connect to a oled to show data while the bme gets the weather 
+i wanted to se the local weather and have a api but idk how , here comes the cdweather a esp connect to a oled and bme this setup gives you both a real time data you can send via the esp and shows you UR real time weather
+
+# firmware
+am going to use circuitpython  to both send data to my oled and hope fuly as a api 
 # pics
 ![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9cf9f6d899c20402250ae5eb10eb7d7e8ea1d185_image.png)
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f198b462a5fb3e42df48ccbd27935b3fd93667a5_image.png)
