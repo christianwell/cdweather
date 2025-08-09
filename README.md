@@ -10,7 +10,7 @@ am going to use circuitpython  to both send data to my oled and hope fuly as a a
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f198b462a5fb3e42df48ccbd27935b3fd93667a5_image.png)
 ![3dpcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f15b15f08ac843b444ec9d7b3dac4451fcfa64ef_image.png)
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5125e02faaa4c0ae695dbe05aba960be7e40406e_image.png)
-
+![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8ea84bde78ad09eea2a9443cee0feda9f7ca1285_image.png)
 
 # prices 
 oled HS91L02W2C01  1 [$ 2.01
